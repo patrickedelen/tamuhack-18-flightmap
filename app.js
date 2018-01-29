@@ -25,7 +25,7 @@ app.use(bodyParser.json());
 
 var fxml_url = 'http://flightxml.flightaware.com/json/FlightXML2/';
 var username = 'patrickedelen';
-var apiKey = '001df406e5df44e845d403b596a61729f8b77000';
+var apiKey = '*';
 
 
 // restclient.get(fxml_url + 'MetarEx', {
